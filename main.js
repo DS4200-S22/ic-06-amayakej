@@ -26,6 +26,10 @@ function button1Clicked() {
     console.log("Button 1 was clicked"); 
 }
 
+function change() { 
+  document.getElementById('dayereh').style.fill = "red";
+} 
+
 // calling the function
 
 // printButtom1Clicked();

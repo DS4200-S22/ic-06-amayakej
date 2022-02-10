@@ -2,3 +2,10 @@ body {
 	font-family: Arial;
 }
 
+.my-circle {
+  fill: #f85;
+}
+
+.my-circle:hover {
+  fill: #000;
+}
